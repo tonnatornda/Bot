@@ -1,0 +1,2 @@
+# Bot
+TwitchGET Discordbot
