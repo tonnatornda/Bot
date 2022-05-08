@@ -6,4 +6,5 @@ TwitchGET Discordbot
 # コマンド
 - ```?twitch (ユーザー名)```
 # 使い方
-```git clone ```
+```git clone git@github.com:tonnatornda/Bot.git```
+```cd ```
