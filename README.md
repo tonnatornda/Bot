@@ -1,5 +1,3 @@
-# Bot
-TwitchGET Discordbot
 # インストール必須なライブラリ
 - discord.js
 - request
